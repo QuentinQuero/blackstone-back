@@ -18,6 +18,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/exploration', explorationRouter);
 app.use('/character', characterRouter);
 
+app.set('view engine', 'pug');
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
