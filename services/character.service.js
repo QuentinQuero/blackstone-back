@@ -20,6 +20,10 @@ exports.createCharacter = async function (character) {
 
         newChar.name = character.name;
         newChar.life = character.life;
+        newChar.movement = character.movement;
+        newChar.defense = character.defense;
+        newChar.agility = character.agility;
+        newChar.vitality = character.vitality;
 
         array.forEach(element =>
         newChar.capacity.push(element)
@@ -35,6 +39,8 @@ exports.createCharacter = async function (character) {
         newChar.exalte.push(element)
         );
 
+        newChar.image = character.image;
+        newChar.vaisseau_id = character.vaisseau_id;
         return await newChar.save();
     } catch (e) {
         // Log Errors
