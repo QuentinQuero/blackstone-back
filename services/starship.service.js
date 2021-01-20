@@ -6,7 +6,7 @@ exports.getStarship = async function (query, page, limit) {
         return await Starship.find(query);
     } catch (e) {
         // Log Errors
-        throw Error('Error while Paginating Character')
+        throw Error('Error:Starships does not exist')
     }
 }
 
@@ -16,7 +16,7 @@ exports.getStarshipById = async function (id) {
         return await Starship.findById(id);
     } catch (e) {
         // Log Errors
-        throw Error('Error while Paginating Character')
+        throw Error('Error:Starships does not exist')
     }
 }
 
