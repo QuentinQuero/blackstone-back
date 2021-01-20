@@ -2,8 +2,9 @@ var mongoose = require('mongoose')
 
 const StarshipSchema  = new mongoose.Schema({
     name: String,
-    life: Number,
-    damage: Number
+    appui: String,
+    instalations: String,
+    explorateur: String
 })
 
 const Starship = mongoose.model('starships', StarshipSchema)
