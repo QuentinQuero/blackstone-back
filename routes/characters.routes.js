@@ -21,13 +21,13 @@ router.delete('/:id', function(req, res, next) {
     res.send();
   })
 });
-
+/*
 router.put('/:id', function(req, res, next) {
   characterController.UpdateCharacter(req, res).then(function (){
     res.send();
   })
 });
-
+*/
 /* GET users listing. */
 router.post('/', function(req, res, next) {
   characterController.createCharacter(req, res).then(function (){
