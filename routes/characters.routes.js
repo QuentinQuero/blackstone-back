@@ -10,6 +10,24 @@ router.get('/', function(req, res, next) {
   })
 });
 
+router.get('/:id', function(req, res, next) {
+  characterController.getCharacterById(req, res).then(function (){
+    res.send();
+  })
+});
+
+router.delete('/:id', function(req, res, next) {
+  characterController.DeleteCharacter(req, res).then(function (){
+    res.send();
+  })
+});
+
+router.put('/:id', function(req, res, next) {
+  characterController.UpdateCharacter(req, res).then(function (){
+    res.send();
+  })
+});
+
 /* GET users listing. */
 router.post('/', function(req, res, next) {
   characterController.createCharacter(req, res).then(function (){
