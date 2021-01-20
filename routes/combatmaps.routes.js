@@ -3,9 +3,21 @@ var router = express.Router();
 
 var combatmapsController = require('../controllers/combatmaps.controllers')
 
-/* GET users listing. */
+/* GET maps listing. */
 router.get('/', function(req, res, next) {
-    combatmapsController.getCombatMap(req,res).then(function(){
+    combatmapsController.getCombatMaps(req,res).then(function(){
+        res.send();
+    })
+});
+/* GET maps by id. */
+router.get('/:id', function(req, res, next) {
+    combatmapsController.getCombatMapById(req,res).then(function(){
+        res.send();
+    })
+});
+/* DELETE maps by id. */
+router.delete('/:id', function(req, res, next) {
+    combatmapsController.deleteCombatMapById(req,res).then(function(){
         res.send();
     })
 });
