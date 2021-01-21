@@ -24,7 +24,14 @@ router.post('/', function(req, res, next) {
     })
 });
 
-router.delete('/delete/:id', function(req, res, next) {
+/* POST new starship. */
+router.put('/:id', function(req, res, next) {
+    starshipController.updateStarship(req, res).then(function () {
+        res.send();
+    })
+});
+
+router.delete('/:id', function(req, res, next) {
     starshipController.deleteStarshipById(req, res).then(function (){
         res.send();
     })

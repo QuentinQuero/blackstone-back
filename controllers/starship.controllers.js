@@ -25,16 +25,27 @@ exports.getStarshipById = async function (req, res) {
 
 exports.createStarship = async function (req, res) {
     try {
-        await StarshipService.createStarship(req.body);
-
-        let ships = await StarshipService.getStarship()
+        let ships = await StarshipService.createStarship(req.body);
 
         res.statusCode = 200;
 
         res.json = { status: 200, data: ships, message: "Successfully Starship Created" };
-        return res;
+
     } catch (e) {
-        return res.status(400).json({ status: 400, message: e.message });
+       res.status(400).json({ status: 400, message: e.message });
+    }
+}
+
+exports.updateStarship = async function (req, res) {
+    try {
+        let ships = await StarshipService.updateStarship(req.body, req.params.id);
+
+        res.statusCode = 200;
+
+        res.json = { status: 200, data: ships, message: "Successfully Starship Updated" };
+
+    } catch (e) {
+       res.status(400).json({ status: 400, message: e.message });
     }
 }
 
