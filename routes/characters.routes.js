@@ -10,7 +10,6 @@ router.get('/', function(req, res, next) {
   })
 });
 
-/* GET users listing. */
 router.post('/', function(req, res, next) {
   characterController.createCharacter(req, res).then(function (){
     res.send();

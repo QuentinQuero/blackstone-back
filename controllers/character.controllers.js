@@ -17,8 +17,7 @@ exports.createCharacter = async function (req, res) {
 
         res.statusCode = 200;
         res.json = { status: 200, data: users, message: "Succesfully Users Retrieved" };
-        return res;
     } catch (e) {
-        return res.status(400).json({ status: 400, message: e.message });
+        res.status(400).json({ status: 400, message: e.message });
     }
 }
