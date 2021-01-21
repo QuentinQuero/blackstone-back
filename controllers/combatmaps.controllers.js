@@ -31,7 +31,7 @@ exports.createCombatMap = async function (req, res) {
 
         let maps = await CombatMapsService.getCombatMaps()
         res.statusCode =200;
-        res.json = { status: 200, data: maps, message: "Successfully Maps Retrieved" };
+        res.json = { status: 200, data: maps, message: "Successfully Map Retrieved" };
         return res;
     } catch (e) {
         return res.status(400).json({ status: 400, message: e.message });
