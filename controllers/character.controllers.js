@@ -31,10 +31,10 @@ exports.DeleteCharacter = async function (req, res) {
         return res.status(400).json({ status: 400, message: e.message });
     }
 }
-/*
+
 exports.UpdateCharacter = async function (req, res) {
     try {
-        await CharacterService.updateCharacter(req.body);
+        await CharacterService.updateCharacter(req.body,req.params.id);
 
         let users = await CharacterService.getCharacter()
 
@@ -44,7 +44,7 @@ exports.UpdateCharacter = async function (req, res) {
     } catch (e) {
         return res.status(400).json({ status: 400, message: e.message });
     }
-}*/
+}
 
 exports.createCharacter = async function (req, res) {
     try {
