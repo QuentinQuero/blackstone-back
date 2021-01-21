@@ -1,8 +1,8 @@
 const Challenge = require("../models/challengeModel");
 
-exports.getChallenges = async function (query) {
+exports.getChallenges = async function () {
     try {
-        return await Challenge.find(query);
+        return await Challenge.find();
     } catch (e) {
         throw Error('Error while Paginating Challenges')
     }
