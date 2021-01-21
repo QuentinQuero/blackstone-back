@@ -30,7 +30,7 @@ exports.deleteCombatMapById = async function (id) {
 
 exports.createCombatMap = async function (map) {
     let newMap = new Map();
-    newMap.name = 'neant';
-    newMap.image = '/images/maps/thwmjqY.jpg';
+    newMap.name = map.name;
+    newMap.image = map.image;
     return await newMap.save();
 }
