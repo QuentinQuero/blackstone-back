@@ -20,9 +20,8 @@ exports.getChallengeById = async function (req, res) {
 
 exports.createChallenge = async function (req, res) {
     try {
-        await ChallengeService.createChallenge(req.body);
-        let challenges = await ChallengeService.getChallenges()
-        res.status(200).json({ status: 200, data: challenges, message: "Successfully Challenges Created"  });
+        let challenge = await ChallengeService.createChallenge(req.body);
+        res.status(200).json({ status: 200, data: challenge, message: "Successfully Challenge Created"  });
     } catch (e) {
         res.status(400).json({ status: 400, message: e.message });
     }
