@@ -6,6 +6,7 @@ var logger = require('morgan');
 
 var explorationRouter = require('./routes/exploration.routes');
 var characterRouter = require('./routes/characters.routes');
+var starshipRouter = require('./routes/starship.routes');
 var challengeRouter = require('./routes/challenges.routes');
 
 var app = express();
@@ -18,6 +19,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/exploration', explorationRouter);
 app.use('/character', characterRouter);
+app.use('/starship', starshipRouter);
+
 app.use('/challenges', challengeRouter);
 
 app.set('view engine', 'pug');
