@@ -3,6 +3,7 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+const cors = require('cors');
 
 var explorationRouter = require('./routes/exploration.routes');
 var characterRouter = require('./routes/characters.routes');
@@ -13,6 +14,8 @@ var starshipRouter = require('./routes/starship.routes');
 var challengeRouter = require('./routes/challenges.routes');
 
 var app = express();
+
+app.use(cors());
 
 app.use(logger('dev'));
 app.use(express.json());

@@ -3,9 +3,9 @@ var CharacterService = require('../services/character.service')
 exports.getCharacter = async function (req, res) {
     try {
         let users = await CharacterService.getCharacter()
-        res.status(200).json({ status: 200, data: users, message: "Succesfully Users Retrieved" });
+        res.status(200).json({ status: 200, data: users, message: "Succesfully Users Retrieved" }).send;
     } catch (e) {
-        res.status(400).json({ status: 400, message: e.message });
+        res.status(400).json({ status: 400, message: e.message }).send;
     }
 }
 
@@ -26,9 +26,8 @@ exports.DeleteCharacter = async function (req, res) {
 
         res.statusCode = 200;
         res.json = { status: 200, data: users, message: "Succesfully Users Retrieved" };
-        return res;
     } catch (e) {
-        return res.status(400).json({ status: 400, message: e.message });
+       res.status(400).json({ status: 400, message: e.message });
     }
 }
 
@@ -40,9 +39,8 @@ exports.UpdateCharacter = async function (req, res) {
 
         res.statusCode = 200;
         res.json = { status: 200, data: users, message: "Succesfully Users Retrieved" };
-        return res;
     } catch (e) {
-        return res.status(400).json({ status: 400, message: e.message });
+        res.status(400).json({ status: 400, message: e.message });
     }
 }
 
