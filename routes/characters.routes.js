@@ -3,7 +3,7 @@ var router = express.Router();
 
 var characterController = require('../controllers/character.controllers')
 
-/* GET users listing. */
+/* GET users . */
 router.get('/', function(req, res, next) {
   characterController.getCharacter(req, res).then(function (){
     res.send();
@@ -21,14 +21,15 @@ router.delete('/:id', function(req, res, next) {
     res.send();
   })
 });
-
+/*
 router.put('/:id', function(req, res, next) {
   characterController.UpdateCharacter(req, res).then(function (){
     res.send();
   })
 });
+*/
 
-/* GET users listing. */
+/* Create user. */
 router.post('/', function(req, res, next) {
   characterController.createCharacter(req, res).then(function (){
     res.send();
