@@ -12,9 +12,9 @@ exports.getCharacter = async function (req, res) {
 exports.getCharacterById = async function (req, res) {
     try {
         let users = await CharacterService.getCharacterByID(req.params.id)
-        res.status(200).json({ status: 200, data: users, message: "Succesfully Users Retrieved" });
+        res.status(200).json({ status: 200, data: users, message: "Succesfully Users Retrieved" }).send;
     } catch (e) {
-        res.status(400).json({ status: 400, message: e.message });
+        res.status(400).json({ status: 400, message: e.message }).send;
     }
 }
 
