@@ -17,6 +17,8 @@ var app = express();
 
 app.use(cors());
 
+app.use('/static', express.static('public'));
+
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
