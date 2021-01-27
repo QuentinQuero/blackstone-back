@@ -1,9 +1,9 @@
 const Map = require("../models/combatmapsModel");
 
-exports.getCombatMaps = async function (query, page, limit) {
+exports.getCombatMaps = async function () {
 
     try {
-        return await Map.find(query);
+        return await Map.find();
     } catch (e) {
         // Log Errors
         throw Error('No maps in database')
