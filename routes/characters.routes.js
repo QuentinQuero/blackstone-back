@@ -10,13 +10,10 @@ router.get('/', function(req, res, next) {
 
 router.get('/:id', function(req, res, next) {
   characterController.getCharacterById(req, res);
-
 });
 
 router.delete('/:id', function(req, res, next) {
-  characterController.DeleteCharacter(req, res).then(function (){
-    res.send();
-  })
+  characterController.DeleteCharacter(req, res)
 });
 /*
 router.put('/:id', function(req, res, next) {
@@ -28,9 +25,7 @@ router.put('/:id', function(req, res, next) {
 
 /* Create user. */
 router.post('/', function(req, res, next) {
-  characterController.createCharacter(req, res).then(function (){
-    res.send();
-  })
+  characterController.createCharacter(req, res)
 });
 
 module.exports = router;

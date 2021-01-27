@@ -5,37 +5,27 @@ var challengeController = require('../controllers/challenge.controllers')
 
 //GetAll
 router.get('/', function(req, res, next) {
-  challengeController.getChallenges(req, res).then(function (){
-    res.send();
-  })
+  challengeController.getChallenges(req, res);
 });
 
 //GetById
 router.get('/:id', function(req, res) {
-  challengeController.getChallengeById(req, res).then(function (){
-    res.send();
-  })
+  challengeController.getChallengeById(req, res)
 });
 
 //Post
 router.post('/', function(req, res) {
-  challengeController.createChallenge(req, res).then(function (){
-    res.send();
-  })
+  challengeController.createChallenge(req, res)
 });
 
 //UpdateById
 router.put('/', function(req, res) {
-  challengeController.updateChallenge(req, res).then(function (){
-    res.send();
-  })
+  challengeController.updateChallenge(req, res)
 });
 
 //DeleteById
 router.delete('/:id', function(req, res) {
-  challengeController.deleteChallengeById(req, res).then(function (){
-    res.send();
-  })
+  challengeController.deleteChallengeById(req, res)
 });
 
 module.exports = router;

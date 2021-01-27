@@ -5,27 +5,19 @@ var combatmapsController = require('../controllers/combatmaps.controllers')
 
 /* GET maps listing. */
 router.get('/', function(req, res, next) {
-    combatmapsController.getCombatMaps(req,res).then(function(){
-        res.send();
-    })
+    combatmapsController.getCombatMaps(req,res)
 });
 /* GET maps by id. */
 router.get('/:id', function(req, res, next) {
-    combatmapsController.getCombatMapById(req,res).then(function(){
-        res.send();
-    })
+    combatmapsController.getCombatMapById(req,res)
 });
 /* DELETE maps by id. */
 router.delete('/:id', function(req, res, next) {
-    combatmapsController.deleteCombatMapById(req,res).then(function(){
-        res.send();
-    })
+    combatmapsController.deleteCombatMapById(req,res)
 });
 
 router.post('/', function(req, res, next) {
-    combatmapsController.createCombatMap(req,res).then(function(){
-        res.send();
-    })
+    combatmapsController.createCombatMap(req,res)
 });
 
 
