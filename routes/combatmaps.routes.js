@@ -5,9 +5,8 @@ var combatmapsController = require('../controllers/combatmaps.controllers')
 
 /* GET maps listing. */
 router.get('/', function(req, res, next) {
-    combatmapsController.getCombatMaps(req,res).then(function(){
-        res.send();
-    })
+    combatmapsController.getCombatMaps(req,res);
+
 });
 /* GET maps by id. */
 router.get('/:id', function(req, res, next) {
