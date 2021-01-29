@@ -1,11 +1,11 @@
-var CombatMapsService = require('../services/combatmaps.service')
+let CombatMapsService = require('../services/combatmaps.service')
 
 exports.getCombatMaps = async function (req, res) {
     try {
         let maps = await CombatMapsService.getCombatMaps()
-        res.status(200).json({ status: 200, data: maps, message: "Successfully Maps Retrieved" });
+        res.status(200).json({ status: 200, data: maps, message: "Successfully Maps Retrieved" }).send;
     } catch (e) {
-        res.status(400).json({ status: 400, message: e.message });
+        res.status(400).json({ status: 400, message: e.message }).send;
     }
 }
 exports.getCombatMapById = async function (req, res) {
