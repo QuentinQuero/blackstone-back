@@ -4,7 +4,8 @@ const StarshipSchema  = new mongoose.Schema({
     name: String,
     appui: String,
     instalations: String,
-    explorateur: String
+    explorateur: String,
+    image: String
 })
 
 const Starship = mongoose.model('starships', StarshipSchema)

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "600836756572a507a1573bcf"
+  },
+  "name": "STEED OF MATHURIR",
+  "explorateur": "Amallyn Shadowguide",
+  "appui": "Scanner à Matrice Cristalline: Une fois par expédition, un explorateur peut effectuer l'action Scanner à Matrice Cristalline au cours de son activation, Cette action a un coût de (1+) si l'explorateur est Amallyn Shadowguide, et un coût de (6+) pour tout autre explorateur. Si cette action est entreprise, choisissez un groupe d'hostiles qui n'a pas été activé à ceour, et inversez sa carte Initiative avec celle du bout de la piste de combat.",
+  "instalations": "Décrypteur de Labyrinthe: Jetez le dé de Sombreroche. Vous pouvez relancer le dé si l'explorateur qui utilise cette installation est Amallyn Shadowguide. Si le résultat est supérieur au nombre de cartes Indice de l'explorateur, rien ne se passe. Si le résultat est inférieur ou égal au nombre de cartes Indice de l'explorateur, il reçoit une carte Indice.",
+  "__v": 0,
+  "image": "/image/starship/som.jpg"
+},{
+  "_id": {
+    "$oid": "6012ba8a33c53325fe85e50e"
+  },
+  "name": "VANGUARD",
+  "explorateur": "Janus Draik",
+  "appui": "Conseiller Tactique: Une fois par expedition, un explorateur peut effectuer Faction Conseiller Tactique au cours de son activation. Cette action a un coot de (1 +) si l'explorateur est Janus Draik, et un coat de (6+) pour tout autre explorateur. Si cette action est entreprise, choisissez un groupe d'hostiles.*. Pour le restant du tour, relancez les jets d'attaque des attaques qui visent un hostile de ce groupe. ",
+  "instalations": "Salon de Commerce: Jetez le de de Sombreroche. Vous 41 :sr—it pouvez relancer le de si I'explorateur qui utilise cette installation est Janus Draik. Sur 1, it doit defausser une carte Archeotechnologie s'il en a une. Sur 2-15, rien ne se passe. Sur 16+, l'explorateur peat echanger une de ses cartes Archeotechnologie contre Line carte au choix de la pile de decouvertes.",
+  "image": "/image/starship/van.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012bc1a33c53325fe85e50f"
+  },
+  "name": "TRAVELLER",
+  "explorateur": "Espern Locarno",
+  "appui": "Générateur de Nuage Warp: Une fois par expédition, un explorateur peut effectuer l'action Générateur de Nuage Warp au cours de son activation. Cette actionà un coût de (1+) si l'explorateur est Espem Locamo, ou (6+) pour tout autre explorateur. Si cette action est entreprise, pour le restant du tour, les explorateurs ne sont pas visibles des hostiles sauf si ces demiers sont adjacents aux explorateurs.",
+  "instalations": "Demander de l'Aide: Jetez le dé de Sombreroche. Vous pouvez relancer le dé si l'explorateur qui utilise cette installation est Espern Locarno. Sur un 16+, choisissez un explorateur mort. Retirez la carte Mortis de cet explorateur.",
+  "image": "/image/starship/trv.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012bf8f33c53325fe85e510"
+  },
+  "name": "CLARION",
+  "explorateur": "Taddeus le Purificateur, Pious Vorne",
+  "appui": "Laudaphones à Infrasons: Une fois par expédition, au début de l'étape de manoeuvres de la phase d'initiative, le chef peut utiliser les laudaphones à infrasons du Clarion. S'il le fait, chaque explorateur peut effectuer une manoeuvre sans avoir à dépenser un dé d'activation à cette étape de manoeuvre.",
+  "instalations": "Salle de Torture: Jetez le dé de Sombreroche. Vous pouvez relancer le dé si l'explorateur qui utilise cette installation est Taddeus the Purifier ou Pious Vorne Sur 1, l'explorateur doit défausser une carte Indice s'il en a une. Sur 2-15, rien ne se passe. Sur 16+, il reçoit une carte Indice. ",
+  "image": "/image/starship/clr.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012c3b033c53325fe85e511"
+  },
+  "name": "LONG-COURRIER GAMMA-3-R ",
+  "explorateur": "UR-025, Rein et Raus",
+  "appui": "Banque de Cogitateurs: Une fois par expédition, après avoir effectué le jet de destin, le chef peut utiliser la banque de Cogitateurs du Long-courrier Gamma-3- Beta. S'il le fait, tes résultats identiques ne sont pas défaussés et tous les dés sont placés sur la réserve de dés disponibles. ",
+  "instalations": "Soute à Déchets: Jetez le dé de Sombreroche. Vous pouvez relancer le dé si l'explorateur qui utilise cette installation est UR-025 ou Rein Et Raus. Sur 1, l'explorateur est tué, comme s'il avait raté un jet de rétablissement. Sur 2-10, rien ne se passe. Sur 11+, l'explorateur reçoit une carte Archéotechnologie tirée au hasard dans la pile de découvertes.",
+  "image": "/image/starship/lcg.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012c82e33c53325fe85e512"
+  },
+  "name": "KRAVV'CHA'TO",
+  "explorateur": "Dahyak Grekh ",
+  "appui": "Désignateur de Cible: Une fois par expédition, un explorateur peut effectuer une action Désignateur de Cible au cours de son activation. Cette action a un coût de (1 +) si l'explorateur est Dahyak Grekh, et un coût de (6+) pour tout autre explorateur. L'action permet à l'explorateur d'effectuer une action d'arme sans dépenser de dé d'activation. Tout jet d'attaque de cette arme est automatiquement une réussite critique.",
+  "instalations": "Fosse de Combat: Trouvez la carte *défi Isolé. Résolvez le défi avec cet explorateur. Si le défi est résolu. sans que l'explorateur soit mis hors de combat, il reçoit une carte Découverte. De --se; ise, plus, l'explorateur commence l'expédition suivante avec 1 point d'exaltation (placez un pion Point d'Exaltation à côté de la carte de l'explorateur pour vous le rappeler).",
+  "image": "/image/starship/crv.jpg",
+  "__v": 0
+}]
