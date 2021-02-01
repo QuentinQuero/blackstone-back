@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "601286a4123f217f308134f1"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat2.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012870d123f217f308134f2"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat3.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60128743123f217f308134f3"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat4.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601287c6123f217f308134f5"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat6.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601287f2123f217f308134f6"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat7.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012884c123f217f308134f7"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat8.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60128871123f217f308134f8"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat9.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60128897123f217f308134f9"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat10.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601288b7123f217f308134fa"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat11.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60128951123f217f308134fd"
+  },
+  "name": "COMBAT Embuscade!",
+  "image": "/images/maps/Embuscade2.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60128972123f217f308134fe"
+  },
+  "name": "COMBAT Embuscade!",
+  "image": "/images/maps/Embuscade3.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60132c10041ca117dee47d10"
+  },
+  "name": "COMBAT",
+  "image": "/images/maps/Combat12.png",
+  "__v": 0
+}]
