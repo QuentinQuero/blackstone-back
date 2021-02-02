@@ -78,7 +78,7 @@
   "description": "Résolvez ce défi comme un combat, avec les changements suivants 1. Mélangez les cartes Initiative des explorateurs et piochez-en deux. Placez ces deux explorateurs sur la case E. Les autres cartes initiative des explorateurs ne sont pas utilisées. 2. Les hostiles ne sont déployés que sur la case portant le marqueur Découverte de leur groupe. Ceux en excédent qui ne peuvent être placés sur leur case sont tués.3. Les règles des actions Fouiller, des renforts et des événements ne sont pas utilisés.4. Le combat se termine quand les deux explorateurs sont hors de combat ou que tous les hostiles ont été tués. Dans ce second cas, les deux explorateurs piochent une carte Découverte.",
   "__v": 0,
   "situation": "Deux explorateurs sont assaillis par un groupe d'hostiles.",
-  "image": "http://localhost:3000/static/images/challenges/defidosados.jpg"
+  "image": "http://localhost:3000/static/images/challenges/defidosados.png"
 },{
   "_id": {
     "$oid": "60113f58d45a9128c1789108"
@@ -87,7 +87,7 @@
   "description": "Résolvez ce défi comme un combat, avec les changements suivants 1. Mélangez les cartes Initiative des explorateurs et tirez-en une. Placez cet explorateur sur la case E. Les autres cartes Initiative des explorateurs ne sont pas utilisées. 2. Les hostiles ne sont déployés que sur la case portant le marqueur Découverte de leur groupe. Ceux en excédent qui ne peuvent être placés sur leur case sont tués. 3. Les règles des actions Fouiller, des renforts et des événements ne sont pas utilisés. 4. Le combat se termine quand l'explorateur est hors de combat ou quand tous les hostiles ont été tués. Dans ce second cas, l'explorateur pioche une carte Découverte.",
   "__v": 0,
   "situation": "Un explorateur esseulé est assailli par un groupe d'hostiles.",
-  "image": "http://localhost:3000/static/images/challenges/defiisole.jpg"
+  "image": "http://localhost:3000/static/images/challenges/defiisole.png"
 },{
   "_id": {
     "$oid": "60114457d45a9128c1789109"
@@ -96,7 +96,7 @@
   "description": "Prenez un couloir de trois cases de long et placez les explorateurs à son extrémité de départ. Un par un, dans l'ordre du chef, chaque explorateur peut tenter de traverser le couloir. Lexplorateur est alors déplacé d'une case dans le couloir. Quand il arrive sur la première case, il doit effectuer un test d'agilité. Quand il arrive sur la deuxième case, il doit effectuer un test de défense. Quand il arrive sur la troisième case, il doit effectuer soit un test de défense, soit un test d'agilité (il choisit). Si un test est raté, l'explorateur subit 1 blessure. Il doit alors renoncer ou rester sur la case et essayer de nouveau. Si le jet est une réussite ou une réussite critique, il pénètre sur la case suivante, ou atteint l'arrivée s'il était sur la case du sprint final. Dans ce second cas, il pioche une carte Découverte.",
   "__v": 0,
   "situation": "Une découverte de valeur se trouve au bout d'un couloir truffé de pièges.",
-  "image": "http://localhost:3000/static/images/challenges/defiepreuvemortelle.jpg"
+  "image": "http://localhost:3000/static/images/challenges/defiepreuvemortelle.png"
 },{
   "_id": {
     "$oid": "601144acd45a9128c178910a"
