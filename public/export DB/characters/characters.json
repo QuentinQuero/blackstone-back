@@ -1,0 +1,1103 @@
+[{
+  "_id": {
+    "$oid": "6012be14a865373e94b85af9"
+  },
+  "classic": {
+    "name": "UR-025",
+    "life": "3",
+    "movement": "1",
+    "defense": "image/de/de5cotes.png",
+    "agility": "image/de/de4cotes.png",
+    "vitality": "image/de/de5cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85afa"
+        },
+        "attack": "Canon d'assaut Mk I (1 +/4 +/6 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be15a865373e94b85afb"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/de5cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85afc"
+        },
+        "attack": "Pince Énergétique (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be15a865373e94b85afd"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Lorsque UR-025 effectue une action d'arme Canon d'Assaut Mk I, il peut attaquer une fois pour un coût de (1 +), deux fois pour un coût de (4 +) ou trois fois pour un coût de (6 +). Résolvez chaque attaque l'une après l'autre. La cible choisie pour la deuxième et la troisième attaque doit être soit la même cible que l'attaque précédente, soit une cible sur la même case ou sur une case adjacente à la cible de l'attaque précédente.",
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85afe"
+        },
+        "name": "Bastion Mobile",
+        "description": "Relancer les jets de défense ratés pour UR-025; toutefois, UR-025 ne bénéficie jamais du couvert."
+      },
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85aff"
+        },
+        "name": "Systèmes de Récupération",
+        "description": "Si un jet de vitalité pout UR-025 est une réussite critique, vous pouvez retrouver un pion Blessure Grave sur sa face Blessure au lien de retirer 2 blessures."
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85b00"
+        },
+        "possible": true,
+        "description": "Tuer un Spindle Drone avec une action d'arme Pince Énergétique au cours d'une expédition."
+      }
+    ],
+    "image": "/image/character/explorator/UR-025.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "1",
+    "defense": "image/de/de5cotes.png",
+    "agility": "image/de/de4cotes.png",
+    "vitality": "image/de/de5cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85b01"
+        },
+        "attack": "Canon d'assaut Mk I (1 +/3 +/5 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be15a865373e94b85b02"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/de5cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85b03"
+        },
+        "attack": "Pince Énergétique (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be15a865373e94b85b04"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Lorsque UR-025 effectue une action d'arme Canon d'Assaut Mk I, il peut attaquer une fois pour un coût de (1 +), deux fois pour un coût de (3 +) ou trois fois pour un coût de (5 +). Résolvez chaque attaque l'une après l'autre. La cible choisie pour la deuxième et la troisième attaque doit être soit la même cible que l'attaque précédente, soit une cible sur la même case ou sur une case adjacente à la cible de l'attaque précédente.",
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85b05"
+        },
+        "name": "Bastion Mobile",
+        "description": "Relancer les jets de défense ratés pour UR-025; toutefois, UR-025 ne bénéficie jamais du couvert."
+      },
+      {
+        "_id": {
+          "$oid": "6012be15a865373e94b85b06"
+        },
+        "name": "Systèmes de Récupération",
+        "description": "Si un jet de vitalité pout UR-025 est une réussite critique, vous pouvez retrouver un pion Blessure Grave sur sa face Blessure au lien de retirer 2 blessures."
+      }
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012be95a865373e94b85b07"
+  },
+  "classic": {
+    "name": "Rein & Raus",
+    "life": "4",
+    "movement": "2",
+    "defense": "image/de/de3cotes.png",
+    "agility": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b08"
+        },
+        "attack": "Fusil de sniper (4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be95a865373e94b85b09"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/de3cotes.png",
+            "quatreplus": "image/de/de4cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b0a"
+        },
+        "attack": "Pistolet de Poche (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be95a865373e94b85b0b"
+            },
+            "un": "image/de/de3cotes.png",
+            "deuxtrois": "image/de/de4cotes.png",
+            "quatreplus": "image/de/de4cotes.png"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Si une attaque de Fusil de Sniper inflige une blessure grave à une cible(après avoir pris en compte le couvert), posez 1 point de Blessure supplémentaire sur la cible.",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b0c"
+        },
+        "name": "Duo (2 +)",
+        "description": "Un des jumeaux effectue une action Se Déplacer ou une action d'arme Pistolet de Poche, puis l'autre effectue une action Se Déplacer ou une action d'arme Pistolet de Poche."
+      },
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b0d"
+        },
+        "name": "Grappin (6 +)",
+        "description": "Choisissez une case visible de Raus qui ne contient aucun explorateur et aucun hostile, puis placez Raus sur cette case."
+      }
+    ],
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b0e"
+        },
+        "name": "Les Jumeaux",
+        "description": "Consultez la page 15 du livre Règles pour voir comment effectuer des jets d'activation, effectuer des actions et appliquer des blessures à Rein & Raus."
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b0f"
+        },
+        "possible": true,
+        "description": "Avoir la carte Découverte Le Parchemin Perdu. Si Espern Locarno possède  cette carte au début d'une expédition, il commence l'expidition Exalté."
+      }
+    ],
+    "image": "/image/character/explorator/reinsandraus.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "2",
+    "defense": "image/de/de3cotes.png",
+    "agility": "image/de/de5cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b10"
+        },
+        "attack": "Fusil de sniper (4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be95a865373e94b85b11"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/de5cotes.png",
+            "quatreplus": "image/de/doublede3cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b12"
+        },
+        "attack": "Pistolet de Poche (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012be95a865373e94b85b13"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "image/de/de3cotes.png",
+            "quatreplus": "image/de/de4cotes.png"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Si une attaque de Fusil de Sniper inflige une blessure grave à une cible(après avoir pris en compte le couvert), posez 1 point de Blessure supplémentaire sur la cible.",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b14"
+        },
+        "name": "Duo (2 +)",
+        "description": "Un des jumeaux effectue une action Se Déplacer ou une action d'arme Pistolet de Poche, puis l'autre effectue une action Se Déplacer ou une action d'arme Pistolet de Poche."
+      },
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b15"
+        },
+        "name": "Grappin (4 +)",
+        "description": "Choisissez une case visible de Raus qui ne contient aucun explorateur et aucun hostile, puis placez Raus sur cette case."
+      }
+    ],
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b16"
+        },
+        "name": "Les Jumeaux",
+        "description": "Consultez la page 15 du livre Règles pour voir comment effectuer des jets d'activation, effectuer des actions et appliquer des blessures à Rein & Raus."
+      },
+      {
+        "_id": {
+          "$oid": "6012be95a865373e94b85b17"
+        },
+        "name": "Hôtes de Marque",
+        "description": "Ajoutez 1 au nombre de points de trafic de Rein & Raus quand ils trafiquent à bord de n'importe quel vaisseau, pas seulement à bord du Long courier Gamma-3 Beta."
+      }
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012bf12a865373e94b85b18"
+  },
+  "classic": {
+    "name": "Janus Draik",
+    "life": "4",
+    "movement": "2",
+    "defense": "image/de/de3cotes.png",
+    "agility": "image/de/de3cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "6012bf12a865373e94b85b19"
+        },
+        "attack": "Pistolet & Rapière (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012bf12a865373e94b85b1a"
+            },
+            "un": "image/de/de3cotes.png",
+            "deuxtrois": "image/de/de3cotes.png",
+            "quatreplus": "image/de/de4cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6012bf12a865373e94b85b1b"
+        },
+        "attack": "Pluie de coups (4 +/6 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012bf12a865373e94b85b1c"
+            },
+            "un": "image/de/de3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Lorsqu'il effectue l'action d'arme Pluie de coups, Janus Draik peut attaquer deux fois pour un coût de (4 +) ou trois fois pour un coût de (6 +). Résolvez chaque attaque l'une après l'autre. La cible choisie pour la deuxième et la troisième attaque doit être soit la même cibleque l'attaque précédente, soit une cible sur la même case ou sur une case adjacente à la cible de l'attaqueprécédente.",
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012bf12a865373e94b85b1d"
+        },
+        "name": "Stratège",
+        "description": "Lors du premier tour de combat, Janus Draik peut effectuer une manoeuvre sans dépenser de dé d'activation."
+      },
+      {
+        "_id": {
+          "$oid": "6012bf12a865373e94b85b1e"
+        },
+        "name": "Duelliste",
+        "description": "Si un jet de défense de Janus Draik est une réussite critique et que l'attaquant est sur une case adjacente, Janus peut effectuer immédiatement une action d'arme Pistolet & Rapière sans dépenser de dé d'activation."
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "6012bf12a865373e94b85b1f"
+        },
+        "possible": true,
+        "description": "Avoir la carte Découverte Chronomètre Empyrique. Si Janus Draik possède cette carte au début d'une expédition, il commence l'expédition Exalté."
+      }
+    ],
+    "image": "/image/character/explorator/janus-draik.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "2",
+    "defense": "image/de/de3cotes.png",
+    "agility": "image/de/de5cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "specialAttack": "Lorsqu'il effectue l'action d'arme Pluie de coups, Janus Draik peut attaquer deux fois pour un coût de (4 +) ou trois fois pour un coût de (6 +). Résolvez chaque attaque l'une après l'autre. La cible choisie pour la deuxième et la troisième attaque doit être soit la même cibleque l'attaque précédente, soit une cible sur la même case ou sur une case adjacente à la cible de l'attaqueprécédente.",
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012bf12a865373e94b85b20"
+        },
+        "name": "Stratège Exalté",
+        "description": "À chaque tour de combat, Janus Draik peut effectuer une manoeuvre sans dépenser de dé d'activation."
+      },
+      {
+        "_id": {
+          "$oid": "6012bf12a865373e94b85b21"
+        },
+        "name": "Duelliste",
+        "description": "Si un jet de défense de Janus Draik est une réussite critique et que l'attaquant est sur une case adjacente, Janus peut effectuer immédiatement une action d'arme Pistolet & Rapière sans dépenser de dé d'activation."
+      }
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012bf27a865373e94b85b22"
+  },
+  "classic": {
+    "name": "Espern Locarno",
+    "life": "4",
+    "movement": "2",
+    "defense": "image/de/de4cotes.png",
+    "agility": "image/de/de4cotes.png",
+    "vitality": "image/de/de4cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b23"
+        },
+        "attack": "Canne à Orbe de Force (4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012bf27a865373e94b85b24"
+            },
+            "un": "image/de/de5cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b25"
+        },
+        "attack": "Le Troisième Oeil (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012bf27a865373e94b85b26"
+            },
+            "un": "image/de/de3cotes.png",
+            "deuxtrois": "image/de/de5cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      }
+    ],
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b27"
+        },
+        "name": "Barrière de Force (5 +)",
+        "description": "Cette action peut être entreprise une fois par phase d'activation. Placez le marque Barrière de Force à coté de Espern Locarno. Tant que ce marqué est placé, Espern Locarno et tout explorateur sur la même case que lui ont une valeur de Défense d'un dé bleu(si la valeur de défense de Espern Locarno ou d'un explorateur est déjà un dé bleu, elle devient alors un double dé bleu). Retirer le marqueur Barrière de Force la prochaine fois qu'Espern Locarno est activé, ou s'il  est mis hors de combat."
+      },
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b28"
+        },
+        "name": "Injonction Mentale (6 +)",
+        "description": "Vous pouvez déplacer un hostile d'une case. Toutes les règles de mouvement dans un cadre d'une action Se Déplacer s'appliquent."
+      }
+    ],
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b29"
+        },
+        "name": "Psychique",
+        "description": "Après avoir effectué le jet de destin, Espern Locarno peut déplacer un dé de destin défaussé vers la zone de dés de destin disponibles sur la plateau Precipice"
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b2a"
+        },
+        "possible": true,
+        "description": "Avoir la carte Découverte Coordonnées Secrètes. Si Espern Locarno possède  cette carte au début d'une expédition, il commence l'expidition Exalté."
+      }
+    ],
+    "image": "/image/character/explorator/espern-locarno.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "2",
+    "defense": "image/de/de4cotes.png",
+    "agility": "image/de/de4cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b2b"
+        },
+        "attack": "Canne à Orbe de Force (4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012bf27a865373e94b85b2c"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b2d"
+        },
+        "attack": "Le Troisième Oeil (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "6012bf27a865373e94b85b2e"
+            },
+            "un": "image/de/de3cotes.png",
+            "deuxtrois": "image/de/doublede3cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      }
+    ],
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b2f"
+        },
+        "name": "Barrière de Force (4 +)",
+        "description": "Cette action peut être entreprise une fois par phase d'activation. Placez le marque Barrière de Force à coté de Espern Locarno. Tant que ce marqué est placé, Espern Locarno et tout explorateur sur la même case que lui ont une valeur de Défense d'un dé bleu(si la valeur de défense de Espern Locarno ou d'un explorateur est déjà un dé bleu, elle devient alors un double dé bleu). Retirer le marqueur Barrière de Force la prochaine fois qu'Espern Locarno est activé, ou s'il  est mis hors de combat."
+      },
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b30"
+        },
+        "name": "Injonction Mentale (5 +)",
+        "description": "Vous pouvez déplacer un hostile d'une case. Toutes les règles de mouvement dans un cadre d'une action Se Déplacer s'appliquent."
+      }
+    ],
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "6012bf27a865373e94b85b31"
+        },
+        "name": "Psychique",
+        "description": "Après avoir effectué le jet de destin, Espern Locarno peut déplacer un dé de destin défaussé vers la zone de dés de destin disponibles sur la plateau Precipice"
+      }
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601911e3ef7e6111a0e08556"
+  },
+  "classic": {
+    "name": "Amallyn Shadowguide",
+    "life": "4",
+    "movement": "3",
+    "defense": "image/de/de4cotes.png",
+    "agility": "image/de/de5cotes.png",
+    "vitality": "image/de/de5cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e08557"
+        },
+        "attack": "Long Fusil (1 +/4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "601911e3ef7e6111a0e08558"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/de3cotes.png",
+            "quatreplus": "image/de/de5cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e08559"
+        },
+        "attack": "Lame énergétique (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "601911e3ef7e6111a0e0855a"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Si un dé d'activation d'au moins 4 + est dépensé pour une action d'arme Long Fusil, elle compte comme une action d'arme avec visée, et tout jet raté de cette action d'arme peut être relancé",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e0855b"
+        },
+        "name": "Cape de Caméléolin (4 +)",
+        "description": "Cette action ne peut pas être effectuée s'il y a un hostile adjacent qui voit Amallyn Shadowguide. Placez le marqueur Cape de Caméléolin à côté d'Amallyn Shadowguide. Tant que le marqueur reste en place, la défense d'Amallyn est un dé bleu à 5 côtés. Retirez le marqueur si Amallyn effectue une action Se Déplacer, ou si un hostile se déplace sur la case adjacente à Amallyn et la voit."
+      },
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e0855c"
+        },
+        "name": "Cristal de Phase (6 +)",
+        "description": "Effectuez un action Se Déplacer avec Amallyn Shadowguide. Elle peut se déplacer à travers les murs et passer par des casesbloquées au cours de ce mouvement, à condition qu'elle termine pas son mouvement sur une case bloquée. De plus, elle n'est pas obligée d'arrêter son mouvement quand elle pénètre sur une case adjacente à un hostile qu'elle voit."
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e0855d"
+        },
+        "possible": true,
+        "description": "Avoir la carte Découverte Vestiges de la Chute. Si Amallyn Shadowguide possède cette carte au début d'une expédition, il commence l'expédition Exalté."
+      }
+    ],
+    "image": "/image/character/explorator/amallyn-shadowguide.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "4",
+    "defense": "image/de/de4cotes.png",
+    "agility": "image/de/de5cotes.png",
+    "vitality": "image/de/de5cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e0855e"
+        },
+        "attack": "Long Fusil (1 +/4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "601911e3ef7e6111a0e0855f"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/de5cotes.png",
+            "quatreplus": "image/de/doublede3cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e08560"
+        },
+        "attack": "Lame énergétique (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "601911e3ef7e6111a0e08561"
+            },
+            "un": "image/de/doublede5cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Si un dé d'activation d'au moins 4 + est dépensé pour une action d'arme Long Fusil, elle compte comme une action d'arme avec visée, et tout jet raté de cette action d'arme peut être relancé",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e08562"
+        },
+        "name": "Cape de Caméléolin (2 +)",
+        "description": "Cette action ne peut pas être effectuée s'il y a un hostile adjacent qui voit Amallyn Shadowguide. Placez le marqueur Cape de Caméléolin à côté d'Amallyn Shadowguide. Tant que le marqueur reste en place, la défense d'Amallyn est un dé bleu à 5 côtés. Retirez le marqueur si Amallyn effectue une action Se Déplacer, ou si un hostile se déplace sur la case adjacente à Amallyn et la voit."
+      },
+      {
+        "_id": {
+          "$oid": "601911e3ef7e6111a0e08563"
+        },
+        "name": "Cristal de Phase (4 +)",
+        "description": "Effectuez un action Se Déplacer avec Amallyn Shadowguide. Elle peut se déplacer à travers les murs et passer par des casesbloquées au cours de ce mouvement, à condition qu'elle termine pas son mouvement sur une case bloquée. De plus, elle n'est pas obligée d'arrêter son mouvement quand elle pénètre sur une case adjacente à un hostile qu'elle voit."
+      }
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60191207ef7e6111a0e08564"
+  },
+  "classic": {
+    "name": "Dahyak Grekh",
+    "life": "4",
+    "movement": "3",
+    "defense": "image/de/de4cotes.png",
+    "agility": "image/de/de3cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08565"
+        },
+        "attack": "Fusil Kroot (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191207ef7e6111a0e08566"
+            },
+            "un": "image/de/de3cotes.png",
+            "deuxtrois": "image/de/de5cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08567"
+        },
+        "attack": "Pistolet et Lame de Fusil (4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191207ef7e6111a0e08568"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08569"
+        },
+        "name": "Piège (6 +)",
+        "description": "Placez un marqueur Piège sur une case visible et adjacente à Dahyak Grekh et qui ne contient aucun explorateur, hostile ou marqueur Piège. Si un explorateur ou un hostile pénètre sur une case avec un marqueur Piège, son activation prend fin, il subit une blessure grave et est sonné, puis le marqueur est retiré. Il est possible de placer jusqu'à trois marqueurs Piège à chaque combat. Retournez un marqueur sur sa face 'utilisé' lorque vous le retirez pour vous rappeler que vous ne pouvez plus l'utiliser à ce combat."
+      }
+    ],
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e0856a"
+        },
+        "name": "Assimiler les Génomes",
+        "description": "Dahyak Grekh n'a pas d'intention secrètes. à la place, quand vous effectuez un jet d'exaltation pour Dahyak Grekh, doublez la valeur de Blessures de tous les hostiles qu'il a tués au cours de cette activation."
+      },
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e0856b"
+        },
+        "name": "Camouflage",
+        "description": "Dahyak a une Défense d'un dé bleu à 5 côtes s'il est couvert par rapport à l'hostile qui attaque."
+      },
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e0856c"
+        },
+        "name": "Pisteur",
+        "description": "Une fois le champ de bataille mis en place, mais avant le premier tour de combat, Dahyak Grekh peut effectuer une action Se Déplacer puis une action Piège (il n'a pas besoin d'être activé et aucun dé d'activaction n'est dépensé)."
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e0856d"
+        },
+        "possible": true,
+        "description": "Dahyak Grekh peut être exalté seulement par les 3 pions d'exaltations."
+      }
+    ],
+    "image": "/image/character/explorator/dahyak-grekh.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "3",
+    "defense": "image/de/de4cotes.png",
+    "agility": "image/de/de3cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e0856e"
+        },
+        "attack": "Fusil Kroot (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191207ef7e6111a0e0856f"
+            },
+            "un": "image/de/de5cotes.png",
+            "deuxtrois": "image/de/doublede3cotes.png",
+            "quatreplus": "image/de/de5cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08570"
+        },
+        "attack": "Pistolet et Lame de Fusil (2 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191207ef7e6111a0e08571"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08572"
+        },
+        "name": "Piège (6 +)",
+        "description": "Placez un marqueur Piège sur une case visible et adjacente à Dahyak Grekh et qui ne contient aucun explorateur, hostile ou marqueur Piège. Si un explorateur ou un hostile pénètre sur une case avec un marqueur Piège, son activation prend fin, il subit une blessure grave et est sonné, puis le marqueur est retiré. Il est possible de placer jusqu'à trois marqueurs Piège à chaque combat. Retournez un marqueur sur sa face 'utilisé' lorque vous le retirez pour vous rappeler que vous ne pouvez plus l'utiliser à ce combat."
+      }
+    ],
+    "specialRole": [
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08573"
+        },
+        "name": "Assimiler les Génomes",
+        "description": "Dahyak Grekh n'a pas d'intention secrètes. à la place, quand vous effectuez un jet d'exaltation pour Dahyak Grekh, doublez la valeur de Blessures de tous les hostiles qu'il a tués au cours de cette activation."
+      },
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08574"
+        },
+        "name": "Camouflage",
+        "description": "Dahyak a une Défense d'un dé bleu à 5 côtes s'il est couvert par rapport à l'hostile qui attaque."
+      },
+      {
+        "_id": {
+          "$oid": "60191207ef7e6111a0e08575"
+        },
+        "name": "Pisteur",
+        "description": "Une fois le champ de bataille mis en place, mais avant le premier tour de combat, Dahyak Grekh peut effectuer une action Se Déplacer puis une action Piège (il n'a pas besoin d'être activé et aucun dé d'activaction n'est dépensé)."
+      }
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60191223ef7e6111a0e08576"
+  },
+  "classic": {
+    "name": "Pious Vorne",
+    "life": "4",
+    "movement": "3",
+    "defense": "image/de/de4cotes.png",
+    "agility": "image/de/de3cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e08577"
+        },
+        "attack": "Lance-flammes Vindictor (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191223ef7e6111a0e08578"
+            },
+            "un": "image/de/de4cotes.png",
+            "deuxtrois": "image/de/de5cotes.png",
+            "quatreplus": "image/de/de4cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e08579"
+        },
+        "attack": "Lance-tronçonneuse Vindictor (4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191223ef7e6111a0e0857a"
+            },
+            "un": "image/de/de5cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e0857b"
+        },
+        "attack": "Flammes Purificatrices (6 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191223ef7e6111a0e0857c"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/doublede5cotes.png",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Ignorez les couverts lors d'une attaque de Lance-flemmes Vindictor ou de Flammes Purificatrices, et effectuez aussi un jet d'attaque contre chaque hostile sur la même case que la cible.",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e0857d"
+        },
+        "name": "Incendie (4 +)",
+        "description": "Cette action peut être entreprise une fois par phase d'activation. Placez un marqueur Incendie sur une ou deux case visibles de Pious Vorne et adjacentes l'une à l'autre. Lorsqu'un explorateur ou un hostile pénètre sur une case ayant un marqueur Incendie, effectuez contre lui un jet d'attaque d'un dé rose à 3 côtés qui ignore les couverts. Retirez le ou les marqueurs Incendie la prochaine fois que Pious Vorne est activée ou si elle est mise hors de combat."
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e0857e"
+        },
+        "possible": true,
+        "description": "Tuer trois hostiles avec une seule action Flammes Purificatrices au cours d'une expédition."
+      }
+    ],
+    "image": "/image/character/explorator/pious-vorne.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "3",
+    "defense": "image/de/de3cotes.png",
+    "agility": "image/de/de3cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e0857f"
+        },
+        "attack": "Lance-flammes Vindictor (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191223ef7e6111a0e08580"
+            },
+            "un": "image/de/de3cotes.png",
+            "deuxtrois": "image/de/doublede3cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e08581"
+        },
+        "attack": "Lance-tronçonneuse Vindictor (4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191223ef7e6111a0e08582"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "N/A",
+            "quatreplus": "N/A"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e08583"
+        },
+        "attack": "Flammes Purificatrices (6 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191223ef7e6111a0e08584"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/doublede5cotes.png",
+            "quatreplus": "N/A"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Ignorez les couverts lors d'une attaque de Lance-flemmes Vindictor ou de Flammes Purificatrices, et effectuez aussi un jet d'attaque contre chaque hostile sur la même case que la cible.",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "60191223ef7e6111a0e08585"
+        },
+        "name": "Incendie (4 +)",
+        "description": "Cette action peut être entreprise une fois par phase d'activation. Placez un marqueur Incendie sur une ou deux case visibles de Pious Vorne et adjacentes l'une à l'autre. Lorsqu'un explorateur ou un hostile pénètre sur une case ayant un marqueur Incendie, effectuez contre lui un jet d'attaque d'un dé rose à 3 côtés qui ignore les couverts. Retirez le ou les marqueurs Incendie la prochaine fois que Pious Vorne est activée ou si elle est mise hors de combat."
+      }
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60191249ef7e6111a0e08586"
+  },
+  "classic": {
+    "name": "Taddeus The Purifier",
+    "life": "4",
+    "movement": "2",
+    "defense": "image/de/de3cotes.png",
+    "agility": "image/de/de4cotes.png",
+    "vitality": "image/de/de3cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e08587"
+        },
+        "attack": "Masse Énergétique et Pistolet Laser (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191249ef7e6111a0e08588"
+            },
+            "un": "image/de/de5cotes.png",
+            "deuxtrois": "image/de/de3cotes.png",
+            "quatreplus": "image/de/de4cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e08589"
+        },
+        "attack": "Servomitrailleuse (3 +/5 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191249ef7e6111a0e0858a"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/doublede3cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Lorsque Taddeus efectue une action d'arme Servomitrrailleuse, il peut attaquer une fois pour un coût de (3 +) ou deux fois pour un coût de (5 +). Résolvez chaque attaque l'une après l'autre. La cible choisie pour la deuxième attaque doit être soit la même cible que l'attaque précédente, soit une cible sur la case adjacente à la cible de l'attaque précédente.",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e0858b"
+        },
+        "name": "Cri du Ralliement (6 +)",
+        "description": "Retirer 1 pion Blessure de Taddeus the Purifier et de tout autre explorateur sur la même case ou sur une case adjacente à Taddeus."
+      }
+    ],
+    "exalte": [
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e0858c"
+        },
+        "possible": true,
+        "description": "Tuer un Rogue Psyker au cours d'une expédition."
+      }
+    ],
+    "image": "/image/character/explorator/taddeus-the-purifier.jpeg",
+    "vaisseau_id": "54748ge87948698"
+  },
+  "exalte": {
+    "movement": "2",
+    "defense": "image/de/de3cotes.png",
+    "agility": "image/de/de4cotes.png",
+    "vitality": "image/de/de5cotes.png",
+    "capacity": [
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e0858d"
+        },
+        "attack": "Masse Énergétique et Pistolet Laser (1 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191249ef7e6111a0e0858e"
+            },
+            "un": "image/de/doublede3cotes.png",
+            "deuxtrois": "image/de/de3cotes.png",
+            "quatreplus": "image/de/de4cotes.png"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e0858f"
+        },
+        "attack": "Servomitrailleuse (2 +/4 +)",
+        "range": [
+          {
+            "_id": {
+              "$oid": "60191249ef7e6111a0e08590"
+            },
+            "un": "N/A",
+            "deuxtrois": "image/de/doublede3cotes.png",
+            "quatreplus": "image/de/de3cotes.png"
+          }
+        ]
+      }
+    ],
+    "specialAttack": "Lorsque Taddeus efectue une action d'arme Servomitrrailleuse, il peut attaquer une fois pour un coût de (3 +) ou deux fois pour un coût de (5 +). Résolvez chaque attaque l'une après l'autre. La cible choisie pour la deuxième attaque doit être soit la même cible que l'attaque précédente, soit une cible sur la case adjacente à la cible de l'attaque précédente.",
+    "uniqueattack": [
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e08591"
+        },
+        "name": "Cri du Ralliement (5 +)",
+        "description": "Retirer 1 pion Blessure de Taddeus the Purifier et de tout autre explorateur sur la même case ou sur une case adjacente à Taddeus."
+      },
+      {
+        "_id": {
+          "$oid": "60191249ef7e6111a0e08592"
+        },
+        "name": "Discours Inspirant (6 +)",
+        "description": "Cette action peut être entreprise une fois par phase d'activation. Placez le marqueur Discours Inspirant à côté de Taddeus the Purifier. Tant que le marqueur reste à côté de Taddeus the Purifier, relancez les jets d'attaque ratés pour Taddeus et pour tous les explorateurs sur la même case adjacente à Taddeus. Retirez le marqueur Discours Inspirant à la fin de la phase d'événement."
+      }
+    ]
+  },
+  "__v": 0
+}]
