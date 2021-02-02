@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "60080093d77b834dedad5761"
+  },
+  "title": "ATTAQUE SURPRISE",
+  "description": "Prenez les cartes Initiative des explorateurs et mélangez-les. Révélez-les les unes après les autres. Lorsque la carte Initiative d'un explorateur est révélée, ce dernier est attaqué une fois par l'Impulsion de Drone d'un Spindle Drone (voir la carte de référence d'hostile de Spindle Drone). Le premier explorateur est attaqué avec un niveau de menace de O, le deuxième avec un niveau de menace de 1, et ainsi de suite. Une fois les attaques effectuées, les Spindle Drones se désengagent et disparaissent. ",
+  "__v": 0,
+  "situation": "Un groupe de Spindle Drones apparaît soudainement et lance des assauts de plus en plus meurtriers."
+},{
+  "_id": {
+    "$oid": "60084176a9e95e6b2c124eea"
+  },
+  "title": "UN TEST DE SANG-FROID",
+  "description": "Piochez autant de cartes Découverte que d'explorateurs et placez-les en ligne, face visible. Placez ensuite deux pions Blessure sur chaque carte. Dans l'ordre du chef, chaque explorateur doit soit retirer un pion Blessure d'une carte, soit prendre une des cartes. Continuez jusqu'à ce qu'une carte soit prise. Lorsqu'un explorateur prend une carte Découverte, placez-la à côté de sa carte personnage. L'explorateur subit alors autant de blessures qu'il restait de pions Blessure sur la carte Découverte. Ensuite, le défi prend fin. Mélangez les cartes Découverte restantes dans la pile de découvertes, et remettez les pions Blessure qu'il restait sur celles-ci sur le plateau Precipice.",
+  "__v": 0,
+  "situation": "Plusieurs découvertes sont protégées par des champs d'énergie électrostatique. Les explorateurs peuvent soit prendre le temps de réduire le voltage des champs, soit s'emparer rapidement d'une découverte, au risque d'être blessés. "
+},{
+  "_id": {
+    "$oid": "6008418982b9636e4f14e1cc"
+  },
+  "title": "TRESOR CACHÉ",
+  "description": "Lancez quatre dés d'activation pour chaque explorateur. L'explorateur avec le plus grand score total pioche une carte Découverte. Si plusieurs explorateurs sont à égalité pour le plus haut score, chacun pioche une carte Découverte. ",
+  "__v": 0,
+  "situation": "Alors que les explorateurs s'enfoncent dans les tréfonds de la Forteresse Noire, l'un d'eux découvre un objet de valeur."
+},{
+  "_id": {
+    "$oid": "600943869410e21f6b8cc0e4"
+  },
+  "title": "LA COURSE",
+  "description": "Piochez autant de cartes Découverte qu'il y a d'explorateurs et placez-les en ligne face visible. Ensuite, jetez un dé d'activation pour chaque explorateur, et ajoutez au résultat la valeur de Mouvement de l'explorateur. Les explorateurs avec des résultats identiques se rentrent dedans et tombent : effectuez un jet de défense pour chaque explorateur qui tombe. Si le jet de défense est raté, l'explorateur subit 1 blessure. Parmi les explorateurs qui ne sont pas tombés, celui avec le plus haut résultat reçoit une carte Découverte de son choix parmi celles qui ont été piochées. Ensuite, c'est au tour de l'explorateur avec le deuxième résultat le plus élevé de choisir une carte parmi celles restantes, et ainsi de suite jusqu'à ce que chaque explorateur qui n'est pas tombé reçoive une carte. Les cartes qui n'ont pas été choisies sont ensuite rebattues dans la pile de découvertes. ",
+  "__v": 0,
+  "situation": "Plusieurs objets de valeur ont été découverts mais vont disparaître bientôt derrière une porte qui se referme. Les explorateurs se précipitent pour s'en emparer!"
+},{
+  "_id": {
+    "$oid": "6009439f20ac2f1fc9517242"
+  },
+  "title": "FEU DE GIVRE",
+  "description": "Dans uDans l'ordre du chef, jetez quatre dés d'activation pour chaque explorateur. Continuez jusqu'à ce que le jet d'un explorateur n'obtienne aucun 6. Cet explorateur subit une blessure grave. ",
+  "__v": 0,
+  "situation": "n rugissement, une gerbe de flammes bleues engloutit un explorateur."
+},{
+  "_id": {
+    "$oid": "6011393bd45a9128c1789102"
+  },
+  "title": "DÉCOMPTE",
+  "description": "Le chef choisit un explorateur. Ce dernier peut soit ignorer le piège, soit tenter de le désarmer. S'il ignore le piège, rien ne se produit et ce défi est résolu. S'il tente de désamorcer le piège, le joueur qui contrôle l'explorateur prend les dés de destin et les jette après avoir compté \"3... 2... 1.... Il dispose alors de vingt secondes pour les empiler les uns sur les autres pour former une colonne, sans les faire tomber. Le premier dé de la colonne doit avoir pour résultat 1, le deuxième pour résultat 2, et ainsi de suite jusqu'au dé du sommet (le cinquième) qui doit avoir pour résultat 5. Le joueur peut relancer n'importe quel dé à n'importe quel moment. Si ce défi est accompli à temps, l'explorateur pioche une carte Découverte. Sinon, jetez de nouveau les dés de destin. L'explorateur subit une blessure pour chaque résultat de 4+. ",
+  "__v": 0,
+  "situation": "Un piège à stase protège un trésor de la Forteresse Noire. "
+},{
+  "_id": {
+    "$oid": "60113cc3d45a9128c1789103"
+  },
+  "title": "DÉFONCEZ CETTE PORTE",
+  "description": "Dans l'ordre du chef, chaque explorateur effectue trois actions d'arme, les unes après les autres, comme s'il attaquait un hostile visible et à une portée d'une case. Totalisez les dégâts infligés par tous les explorateurs. Si le total de dégâts est 12 ou plus, chaque explorateur pioche une carte Découverte.",
+  "__v": 0,
+  "situation": "La porte permettant d'accéder à une chambre à sustentation magnétique remplie de découvertes de valeur vient de se fermer. Si les explorateurs parviennent à la défoncer avant que la chambre démarre, ils pourront s'emparer du butin."
+},{
+  "_id": {
+    "$oid": "60113d43d45a9128c1789105"
+  },
+  "title": "ENDURANCE SURHUMAINE",
+  "description": "Piochez autant de cartes Découverte que d'explorateurs et placez-les en ligne, face visible. Dans l'ordre du chef, chaque explorateur peut essayer de prendre une carte. Pour prendre une carte Archéotechnologie, l'explorateur doit effectuer autant de jets de défense que la valeur de la carte et n'en rater aucun. Pour prendre une carte Indice, l'explorateur doit effectuer trois jets de défense et n'en rater aucun. Si un explorateur rate un ou plusieurs jets, il subit 1 blessure par jet raté. Après que chaque explorateur qui désire tenter de prendre une carte a essayé, les cartes restantes sont remélangées dans la pile de découvertes.",
+  "__v": 0,
+  "situation": "Seul l'explorateur le plus robuste peut s'empctrer de ce trésor."
+},{
+  "_id": {
+    "$oid": "60113d84d45a9128c1789106"
+  },
+  "title": "REFUS DE CÉDER",
+  "description": "Mélangez les cartes Initiative des explorateurs et piochez-en deux. Placez ces deux explorateurs en contact. Dans l'ordre dans lequel les cartes ont été piochées, chaque explorateur peut soit attaquer, soit céder. Si l'explorateur attaque, il doit effectuer une action d'arme contre l'autre explorateur, en considérant que ce dernier est adjacent et visible. Si un explorateur cède ou est mis hors de combat, l'autre remporte le défi. Eexplorateur qui remporte ce défi reçoit une carte Découverte de son choix dans la pile de découvertes. Passez la pile en revue pour trouver la carte de votre choix, puis remélangez la pile et reposez-la sur le plateau Precipice. Chaque explorateur retourne ensuite à la chambre à sustentation magnétique (sauf s'il a été mis hors de combat).",
+  "__v": 0,
+  "situation": "Deux explorateurs semparent simultanément d'une découverte de valeur. Le ton monte, et il semble que le sang va couler, à moins que l'un d'eux accepte de céder."
+},{
+  "_id": {
+    "$oid": "60113eccd45a9128c1789107"
+  },
+  "title": "DOS À DOS",
+  "description": "Résolvez ce défi comme un combat, avec les changements suivants 1. Mélangez les cartes Initiative des explorateurs et piochez-en deux. Placez ces deux explorateurs sur la case E. Les autres cartes initiative des explorateurs ne sont pas utilisées. 2. Les hostiles ne sont déployés que sur la case portant le marqueur Découverte de leur groupe. Ceux en excédent qui ne peuvent être placés sur leur case sont tués.3. Les règles des actions Fouiller, des renforts et des événements ne sont pas utilisés.4. Le combat se termine quand les deux explorateurs sont hors de combat ou que tous les hostiles ont été tués. Dans ce second cas, les deux explorateurs piochent une carte Découverte.",
+  "__v": 0,
+  "situation": "Deux explorateurs sont assaillis par un groupe d'hostiles.",
+  "image": "http://localhost:3000/static/images/challenges/defidosados.jpg"
+},{
+  "_id": {
+    "$oid": "60113f58d45a9128c1789108"
+  },
+  "title": "ISOLÉ",
+  "description": "Résolvez ce défi comme un combat, avec les changements suivants 1. Mélangez les cartes Initiative des explorateurs et tirez-en une. Placez cet explorateur sur la case E. Les autres cartes Initiative des explorateurs ne sont pas utilisées. 2. Les hostiles ne sont déployés que sur la case portant le marqueur Découverte de leur groupe. Ceux en excédent qui ne peuvent être placés sur leur case sont tués. 3. Les règles des actions Fouiller, des renforts et des événements ne sont pas utilisés. 4. Le combat se termine quand l'explorateur est hors de combat ou quand tous les hostiles ont été tués. Dans ce second cas, l'explorateur pioche une carte Découverte.",
+  "__v": 0,
+  "situation": "Un explorateur esseulé est assailli par un groupe d'hostiles.",
+  "image": "http://localhost:3000/static/images/challenges/defiisole.jpg"
+},{
+  "_id": {
+    "$oid": "60114457d45a9128c1789109"
+  },
+  "title": "ÉPREUVE MORTELLE",
+  "description": "Prenez un couloir de trois cases de long et placez les explorateurs à son extrémité de départ. Un par un, dans l'ordre du chef, chaque explorateur peut tenter de traverser le couloir. Lexplorateur est alors déplacé d'une case dans le couloir. Quand il arrive sur la première case, il doit effectuer un test d'agilité. Quand il arrive sur la deuxième case, il doit effectuer un test de défense. Quand il arrive sur la troisième case, il doit effectuer soit un test de défense, soit un test d'agilité (il choisit). Si un test est raté, l'explorateur subit 1 blessure. Il doit alors renoncer ou rester sur la case et essayer de nouveau. Si le jet est une réussite ou une réussite critique, il pénètre sur la case suivante, ou atteint l'arrivée s'il était sur la case du sprint final. Dans ce second cas, il pioche une carte Découverte.",
+  "__v": 0,
+  "situation": "Une découverte de valeur se trouve au bout d'un couloir truffé de pièges.",
+  "image": "http://localhost:3000/static/images/challenges/defiepreuvemortelle.jpg"
+},{
+  "_id": {
+    "$oid": "601144acd45a9128c178910a"
+  },
+  "title": "AGILITÉ SURHUMAINE",
+  "description": "Piochez autant de cartes Découverte que d'explorateurs et placez-les en ligne, face visible. Dans l'ordre du chef, chaque explorateur peut essayer de prendre une carte. Pour prendre une carte Archéotechnologie, l'explorateur doit effectuer autant de jets d'agilité que la valeur de la carte et n'en rater aucun. Pour prendre une carte Indice, l'explorateur doit effectuer trois jets d'agilité et n'en rater aucun. Si un explorateur rate un ou plusieurs jets, il subit 1 blessure par jet raté. Après que chaque explorateur qui désire tenter de prendre une carte a essayé, les cartes restantes sont remélangées dans la pile de découvertes.",
+  "__v": 0,
+  "image": "",
+  "situation": "Seul l'explorateur le plus agile peut s'emparer de ce trésor."
+},{
+  "_id": {
+    "$oid": "60114543d45a9128c178910b"
+  },
+  "title": "EXTERMINEZ-LES",
+  "description": "Dans l'ordre du chef, chaque explorateur effectue trois actions d'arme. La première action d'arme est effectuée comme si l'explorateur attaquait un hostile visible, n'étant pas à couvert, et à une portée de 3 cases. La deuxième action d'arme est effectuée comme si l'explorateur attaquait un hostile visible, n'étant pas à couvert, et à une portée de 4 cases. La troisième action d'arme est effectuée comme si l'explorateur attaquait un hostile visible, n'étant pas à couvert, et à une portée de 5 cases. Totalisez les dégâts infligés par chaque explorateur. Chaque explorateur qui inflige au moins 4 dégâts pioche une carte Découverte.",
+  "__v": 0,
+  "image": "",
+  "situation": "Un groupe d'hostiles tente de s'échapper avec des objets de valeur. Il faut les tuer avant qu'ils s'enfuient. "
+},{
+  "_id": {
+    "$oid": "601145acd45a9128c178910c"
+  },
+  "title": "LA FAILLE",
+  "description": "Effectuez un jet d'agilité pour chaque explorateur. Si l'un d'eux le rate, il doit soit défausser une de ses cartes Découverte ou Ressource, soit jeter le dé de Sombreroche et appliquer le résultat du tableau suivant. I L'explorateur meurt à cause de la chute et ne peut plus être utilisé lors d'expéditions ultérieures. Posez une carte Mortis à côté de sa carte Personnage pour indiquer qu'il est mort. Les cartes Découverte, Ressource et Artéfact de Bastion qu'il avait sont perdues et l'expédition prend fin (voir page 11 du livret Règles). 249: Eexplorateur subit 1 blessure grave. 20 Eexplorateur est miraculeusement indemne.",
+  "__v": 0,
+  "image": "",
+  "situation ": "Les explorateurs doivent franchir une faille pour poursuivre leur périple."
+},{
+  "_id": {
+    "$oid": "601146e3d45a9128c178910d"
+  },
+  "title": "SAVOIR SECRET",
+  "description": "Le chef écrit en secret le nom d'un type d'hostiles. Les autres joueurs doivent alors poser trois questions à son sujet, auxquelles on ne peut répondre que par 'oui' ou 'non'. Le chef doit y répondre honnêtement. Il ne peut rien faire d'autre pour révéler l'identité de l'hostile. Une fois que le chef a répondu aux questions, les autres joueurs doivent tenter de deviner quel hostile il a choisi. S'ils trouvent, les explorateurs relancent les jets d'attaque ratés contre ce type d'hostiles au cours du prochain combat où il sera rencontré. S'ils se trompent, rien ne se produit. S'il n'y a qu'un seul joueur qui contrôle les explorateurs, remplacez cette carte par une nouvelle carte tirée au hasard dans les cartes Exploration qui ont été remises dans la boîte au cours de la mise en place.",
+  "__v": 0,
+  "image": "",
+  "situation": "Les explorateurs peuvent apprendre des informations vitales sur un ennemi s'ils parviennent à déchiffrer leur découverte."
+},{
+  "_id": {
+    "$oid": "60114788d45a9128c178910e"
+  },
+  "title": "EMBUSCADE DANS L'OMBRE",
+  "description": "Placez en ligne les figurines des explorateurs, puis placez un Ur-Ghul à côté de chaque explorateur. Dans l'ordre du chef, chaque explorateur effectue une action d'arme pour attaquer l'Ur-Ghul à côté de lui, comme si ce dernier était adjacent et visible. Ensuite, chaque Ur-Ghul qui n'a pas été tué effectue une attaque avec ses Griffes et Serres contre l'explorateur à côté de lui. Continuez à attaquer de cette façon, d'abord avec les explorateurs puis avec les Ur-Ghuls. Si un explorateur tue l'Ur-Ghul à côté de lui, il peut utiliser son action d'arme pour attaquer un Ur-Ghul à côté d'un autre explorateur, comme s'il était adjacent à l'Ur-Ghul et le voyait. Si un explorateur est mis hors de combat, l'Ur-Ghul qui l'attaquait disparaît dans les ombres et est retiré. Continuez le combat jusqu'à ce que tous les L,r-Ghtil aient été tués ou soient retournés dans les ombres, ou jusqu'à ce que tous les explorateurs aient été mis hors de combat.",
+  "__v": 0,
+  "image": "",
+  "situation": "Les explorateurs se séparent pour fouiller une salle et sont subitement attaqués par un groupe d'Ur-Ghuls surgissant des ombres."
+},{
+  "_id": {
+    "$oid": "60114879d45a9128c178910f"
+  },
+  "title": "PIEGE A TIRS CROISES",
+  "description": "Mélanger les cartes Initiative des explorateurs et disposez-les en ligne, face cachée. Le chef jette ensuite un dé de destin et révèle la première carte Initiative de la ligne. Le joueur qui contrôle l'explorateur correspondant à la carte Initiative doit annoncer 'mon jet sera supérieur au résultat du dé de destin', 'mon jet sera inférieur au résultat du dé de destin' ou 'mon jet sera inférieur ou égal au résultat du dé de destin', puis il jette un dé d'activation. Si son annonce se concrétise, rien ne se produit. S'il s'est trompé, son explorateur subit 1 blessure pour chaque carte Initiative révélée (donc 1 blessure pour le premier explorateur, 2 blessures pour le deuxième, et ainsi de suite.). La carte suivante est révélée et la procédure est répétée, à ceci près que cette fois l'annonce est comparée au dernier dé d'activation jeté au lieu d'être comparée au dé de destin. Continuez jusqu'à ce que toutes les cartes Initiative aient été révélées.",
+  "__v": 0,
+  "image": "",
+  "situation": "Les explorateurs doivent tenter de passer le long d'un mur qui projette des rayons d'énergie à intervalles irréguliers."
+}]
